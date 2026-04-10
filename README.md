@@ -8,7 +8,7 @@ This project analyzes financial data of 101 listed Indian manufacturing companie
 ##  Objective
 To examine whether inventory turnover has a significant impact on profitability and derive insights for better inventory decision-making.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Excel (Data Cleaning & Validation)
 
